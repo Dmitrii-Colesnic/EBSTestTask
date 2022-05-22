@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kotlin/EBSTestTask/app/src/main/res/drawable/background_amount_of_items.xml" value="0.2526041666666667" />
+        <entry key="..\:/Kotlin/EBSTestTask/app/src/main/res/drawable/btn_background_purple_200.xml" value="0.2526041666666667" />
+        <entry key="..\:/Kotlin/EBSTestTask/app/src/main/res/drawable/btn_background_purple_500.xml" value="0.2526041666666667" />
+        <entry key="..\:/Kotlin/EBSTestTask/app/src/main/res/drawable/circle_around_heart.xml" value="0.2526041666666667" />
+        <entry key="..\:/Kotlin/EBSTestTask/app/src/main/res/drawable/line_at_the_bottom.xml" value="0.2526041666666667" />
+        <entry key="..\:/Kotlin/EBSTestTask/app/src/main/res/drawable/my_card_btn_background.xml" value="0.2526041666666667" />
+        <entry key="..\:/Kotlin/EBSTestTask/app/src/main/res/drawable/rounded_corners.xml" value="0.2526041666666667" />
+        <entry key="..\:/Kotlin/EBSTestTask/app/src/main/res/layout/activity_expanded_model.xml" value="0.264" />
+        <entry key="..\:/Kotlin/EBSTestTask/app/src/main/res/layout/activity_favorites.xml" value="0.264" />
+        <entry key="..\:/Kotlin/EBSTestTask/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Kotlin/EBSTestTask/app/src/main/res/layout/item_small_description.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
