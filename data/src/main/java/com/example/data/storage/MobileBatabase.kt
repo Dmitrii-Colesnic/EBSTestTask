@@ -1,4 +1,4 @@
-package com.example.ebstesttask
+package com.example.data.storage
 
 import android.content.Context
 import androidx.room.Database
@@ -15,7 +15,7 @@ abstract class MobileDatabase : RoomDatabase() {
         @Volatile
         private var INSTANCE: MobileDatabase? = null
 
-        fun getInstance(context: Context): MobileDatabase{
+        fun getInstance(context: Context): MobileDatabase {
 
             synchronized(this){
                 var instance = INSTANCE

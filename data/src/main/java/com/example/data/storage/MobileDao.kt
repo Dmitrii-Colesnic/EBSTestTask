@@ -1,4 +1,4 @@
-package com.example.ebstesttask
+package com.example.data.storage
 
 import androidx.room.Dao
 import androidx.room.Insert
